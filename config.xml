@@ -37,6 +37,7 @@
 <plugin name="cordova-plugin-mediascanner"/>
 <plugin name="cordova-plugin-imagedownloader" spec="https://github.com/Santino-Wu/cordova-plugin-imagedownloader.git"/>
 <plugin name="cordova-plugin-file-opener2" spec="https://github.com/pwlin/cordova-plugin-file-opener2.git"/>
+<plugin name="onesignal-cordova-plugin"/>
 <platform  name="ios">
 <plugin name="com.guinatal.refreshgallery" spec="https://github.com/guinatal/refreshgallery.git"/>
     <!-- below requires the splash screen plugin -->
